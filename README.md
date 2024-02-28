@@ -92,13 +92,11 @@
 # 🤖 Machine Learning Practitioner 🤖
 
 <div style="display: flex; justify-content: space-between;">
-  <img height="200" src="https://media.giphy.com/media/APqEbxBsVlkWSuFpth/giphy-downsized-large.gif" style="margin-right: 10px;" />
-  <img height="200" src="https://media.giphy.com/media/APqEbxBsVlkWSuFpth/giphy-downsized-large.gif" style="margin-right: 10px;" />
-  <img width="150" height="200" src="https://media.giphy.com/media/APqEbxBsVlkWSuFpth/giphy-downsized-large.gif" style="margin-right: 20px;" />
-  <img height="200" src="https://media.giphy.com/media/APqEbxBsVlkWSuFpth/giphy-downsized-large.gif" style="margin-right: 20px;" />
-  <img height="200" src="https://media.giphy.com/media/APqEbxBsVlkWSuFpth/giphy-downsized-large.gif" />
+  <img width="200" height="200" src="https://media.giphy.com/media/APqEbxBsVlkWSuFpth/giphy-downsized-large.gif" style="margin-right: 10px;" />
+  <img width="200" height="200" src="https://media.giphy.com/media/APqEbxBsVlkWSuFpth/giphy-downsized-large.gif" style="margin-right: 10px;" />
+  <img width="200" height="200" src="https://media.giphy.com/media/APqEbxBsVlkWSuFpth/giphy-downsized-large.gif" style="margin-right: 20px;" />
+  <img width="200" height="200" src="https://media.giphy.com/media/APqEbxBsVlkWSuFpth/giphy-downsized-large.gif" style="margin-right: 20px;" />
 </div>
-
  
 <div align="center">
   <img height="200" src="https://media.giphy.com/media/j1SpUW3jYmokTNyJFG/giphy.gif"  />
