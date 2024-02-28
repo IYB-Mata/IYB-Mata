@@ -96,7 +96,7 @@
   <img height="200" src="https://media.giphy.com/media/APqEbxBsVlkWSuFpth/giphy-downsized-large.gif"  />
   <img height="200" src="https://media.giphy.com/media/APqEbxBsVlkWSuFpth/giphy-downsized-large.gif"  />
   <img height="200" src="https://media.giphy.com/media/APqEbxBsVlkWSuFpth/giphy-downsized-large.gif"  />
-  <img height="200" src="https://media.giphy.com/media/APqEbxBsVlkWSuFpth/giphy-downsized-large.gif"  />
+
  
 <div align="center">
   <img height="200" src="https://media.giphy.com/media/j1SpUW3jYmokTNyJFG/giphy.gif"  />
@@ -113,7 +113,7 @@
 <div style="display: flex; justify-content: space-between;">
   <img height="200" src="https://media.giphy.com/media/WRQBXSCnEFJIuxktnw/giphy.gif" />
   <img height="200" src="https://media.giphy.com/media/WRQBXSCnEFJIuxktnw/giphy.gif" />
-  <img height="200" src="https://media.giphy.com/media/WRQBXSCnEFJIuxktnw/giphy.gif" />
+
 </div>
 ###
 
