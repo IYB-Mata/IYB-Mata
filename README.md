@@ -94,10 +94,10 @@
 <div style="display: flex; justify-content: space-between;">
   <img height="200" src="https://media.giphy.com/media/APqEbxBsVlkWSuFpth/giphy-downsized-large.gif" style="margin-right: 10px;" />
   <img height="200" src="https://media.giphy.com/media/APqEbxBsVlkWSuFpth/giphy-downsized-large.gif" style="margin-right: 10px;" />
+  <img width="150" height="200" src="https://media.giphy.com/media/a6kKC8iEBkPWBwRhd2/giphy-downsized-large.gif" style="margin-right: 10px;" />
   <img height="200" src="https://media.giphy.com/media/APqEbxBsVlkWSuFpth/giphy-downsized-large.gif" style="margin-right: 20px;" />
   <img height="200" src="https://media.giphy.com/media/APqEbxBsVlkWSuFpth/giphy-downsized-large.gif" />
 </div>
-
 
  
 <div align="center">
@@ -114,10 +114,12 @@
 
 <div style="display: flex; justify-content: space-between;">
   <img height="200" src="https://media.giphy.com/media/WRQBXSCnEFJIuxktnw/giphy.gif" style="margin-left: 10px;"/>
+  <img height="200" src="https://media.giphy.com/media/3oKIP73vEZmJjFNXtC/giphy.gif" style="margin-left: 10px;"/>
   <img height="200" src="https://media.giphy.com/media/WRQBXSCnEFJIuxktnw/giphy.gif" style="margin-right: 30px;"/>
 
 </div>
-###
+
+### My Social Media
 
 <div align="left">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
