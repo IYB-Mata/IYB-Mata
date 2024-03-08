@@ -13,14 +13,14 @@
 
 ###
 
-<p align="left">✨ Creating and fixing bugs since 2023<br>📚 I'm currently studying Bachelor Science in Computer Science speciallized in Machine Learning<br>🎯 Goals: To become a Machine Learning Engineer<br>🎲 Fun fact: I'm one of the best TFT solo queue player here in National University. My current rank last season Grand Master, I've also play League of legends</p>
+<p align="left">✨ Creating and fixing bugs since 2023<br>📚 I'm currently studying Bachelor Science in Computer Science speciallized in Machine Learning<br>🎯 Goals: To become a Machine Learning Engineer<br>🎲 Fun fact: I'm one of the best TFT solo queue player here in National University. My current rank last season Grand Master<br>🎲 I also play League of legends during my spare time after a lot of coding works</p>
 
 # 💻 Tech Stack:
 
 ### Front-End
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  /> 
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
   <img width="12" />
