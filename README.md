@@ -13,7 +13,7 @@
 
 ###
 
-<p align="left">✨ Creating and fixing bugs since 2023<br>📚 I'm currently studying Bachelor Science in Computer Science speciallized in Machine Learning<br>🎯 Goals: To become a Machine Learning Engineer<br>🎲 Fun fact: I'm the TFT solo player here in National University. My rank is Grand Master</p>
+<p align="left">✨ Creating and fixing bugs since 2023<br>📚 I'm currently studying Bachelor Science in Computer Science speciallized in Machine Learning<br>🎯 Goals: To become a Machine Learning Engineer<br>🎲 Fun fact: I'm one of the best TFT solo queue player here in National University. My current rank last season Grand Master, I've also play League of legends</p>
 
 # 💻 Tech Stack:
 
