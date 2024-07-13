@@ -58,11 +58,26 @@ Hi there <img src="https://user-images.githubusercontent.com/74038190/214644152-
 <!-- End point insert background effect line of sight color rainbow -->
 <img src="https://camo.githubusercontent.com/0953ee0ac701354fb28479c3fa7125a9abf19d6d6336991574863cdc2559cf42/68747470733a2f2f7777772e616e696d61746564696d616765732e6f72672f646174612f6d656469612f3536322f616e696d617465642d6c696e652d696d6167652d303138342e676966" width="1000">
 
-# 💻 Tech Stack:
+<!-- Introduction with League of Legends GIF table style down below -->
+## [Introduction](#introduction)
+
+<!-- Fade-in / Fade-out effect pannel button for Linkedin, Instagram, Facebook and Twitter -->
+<div align="center">
+<h1>Connect with me on     <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/a2605358-6b87-44ab-87fb-20dcdc5f9ef2" width="40">&nbsp;</h1>
+<a href="https://www.linkedin.com/in/flexycode/" target="_blank"><img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="70"></a>
+<a href="https://www.instagram.com/yovngbrokegab/" target="_blank"><img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="70"></a>
+<a href="https://www.facebook.com/Bhoya08" target="_blank"><img src="https://user-images.githubusercontent.com/74038190/235294010-ec412ef5-e3da-4efa-b1d4-0ab4d4638755.gif" width="70"></a>
+<a href="https://www.x.com/flexyledger" target="_blank"><img src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" width="70"></a>
+</div>
+
+<!-- Language and Tools, feel free to revise.
+Visit this Github url for more icon preference: https://github.com/tandpfun/skill-icons#readme -->
+<div align="center">
+<h1>Languages & Tools <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/fa83eeb9-f4e2-4d85-93f0-688af11babf8" width="40">&nbsp;</h1>
 
 ### Front-End
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  /> 
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
@@ -86,7 +101,7 @@ Hi there <img src="https://user-images.githubusercontent.com/74038190/214644152-
 
 ### Back-End
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
@@ -110,7 +125,7 @@ Hi there <img src="https://user-images.githubusercontent.com/74038190/214644152-
 
 ### Services & Version Control
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
@@ -131,6 +146,19 @@ Hi there <img src="https://user-images.githubusercontent.com/74038190/214644152-
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
 </div>
+
+<!-- End point insert background effect line of sight color red -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
+
+<!-- GitHuB contributions such as GitHuB Workflow Status, GitHub release, GitHub marketplace, Github contribution graph, GitHub Trophies, GitHub Snake Animation Workflow -->
+# 📈 GitHub Contribution:
+
+[![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/platane/platane/main.yml?label=action&style=flat-square)](https://github.com/Platane/Platane/actions/workflows/main.yml)
+[![GitHub release](https://img.shields.io/github/release/platane/snk.svg?style=flat-square)](https://github.com/platane/snk/releases/latest) 
+[![GitHub marketplace](https://img.shields.io/badge/marketplace-snake-blue?logo=github&style=flat-square)](https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid)
+![type definitions](https://img.shields.io/npm/types/typescript?style=flat-square)
+![code style](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)
+
 
 # 🤖 Machine Learning Practitioner 🤖
 
@@ -160,16 +188,19 @@ Hi there <img src="https://user-images.githubusercontent.com/74038190/214644152-
 
 </div>
 
-### My Social Media
+<!-- Introduction Pannel button link, it will redirect to the top -->
+#### [Back to Table of Content](#introduction)
+---
+<!-- Intro point insert background text style line "Thanks for visiting enjoy your day! -->
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com/?lines=Thanks+For+Visiting+Enjoy+Your+Day+~!;" alt="mystreak"/>
+</p>
+<!-- Link for Discord Channel and  -->
 
-<div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="52" height="40" alt="stackoverflow logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-</div>
 
-###
+[![](https://visitcount.itsvg.in/api?id=IYB-Mata&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com/?lines=Come+Back+Again+next+time+~!;" alt="mystreak"/>
+</p>
+<!-- End point insert background text style line "Come back again next time! -->
