@@ -41,8 +41,17 @@ Hi there <img src="https://user-images.githubusercontent.com/74038190/214644152-
 <!-- End point insert background effect line of sight color red -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 
+<!-- Background github GIF with 3 custom GIF down below, you can change it depends on your preference -->
+<div align="center">
+<img src="https://media.giphy.com/media/mKcG19YmseM6oiieMT/giphy.gif?cid=ecf05e475n0yeqyn8me82sxw0g6jn25e5na1ux9oac4fnahk&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="300">
+<img src="https://media.giphy.com/media/MgVCvi8jRJDPPnBvI2/giphy.gif?cid=ecf05e47fq5uzzhfzmiwa9bc46tczfeskvwaceal9uirari6&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="300">
+<img src="https://media.giphy.com/media/fP5FjjyKzVIvQvj3cG/giphy.gif?cid=ecf05e47p5c7gx7oa0s8w160u6mmtrvkzccynst672j3mvgh&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="300">
+
 <!-- End point insert background effect line of sight color rainbow -->
 <img src="https://camo.githubusercontent.com/0953ee0ac701354fb28479c3fa7125a9abf19d6d6336991574863cdc2559cf42/68747470733a2f2f7777772e616e696d61746564696d616765732e6f72672f646174612f6d656469612f3536322f616e696d617465642d6c696e652d696d6167652d303138342e676966" width="1000">
+
+<br>
+<br>
 
 <p align="left">✨ Creating and fixing bugs since 2023<br>🎯 Goals: To become a Machine Learning Engineer<br>🎲 Fun fact: I'm one of the best TFT solo queue player here in National University. My current rank last season: Master<br>🎲 I also play League of legends during my spare time after a lot of coding works</p>
 
