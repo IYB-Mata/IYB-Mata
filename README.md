@@ -23,11 +23,18 @@ Hi there <img src="https://user-images.githubusercontent.com/74038190/214644152-
 <a href="https://buymeacoffee.com/flexycode" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 </div>
 
+<!-- Coffee GIF -->
+<div align="center">
+<img width="200" height="200" src="https://media.giphy.com/media/pEuD18F5xjR9SNVmYz/giphy.gif?cid=ecf05e477msbxbsg2s2m2rlbro0u4tz1i1icm1t4vug8mqne&ep=v1_stickers_search&rid=giphy.gif&ct=s" style="margin-right: 20px;" />
+
+</div>
+
 <br>
 
 # 💫 About me
 
 🔭 Hello everyone! I'm Mata, a student at National University. I am excited to be a part of this vibrant community of software engineers and technology enthusiasts.<br>
+
 🕵️ I hail from the beautiful country of the Philippines, where I developed a passion for software engineering and technology. As a Software Engineer, I have been actively involved in various projects and have gained practical experience in developing software solutions.<br>
   
 🏆 My primary goal is to excel in my studies and gain a solid foundation in computer science principles and practices. I am eager to learn and explore various programming languages, algorithms, and software development methodologies. Additionally, I aim to contribute to the field of computer science through innovative projects and collaborations.<br>
@@ -61,6 +68,13 @@ Hi there <img src="https://user-images.githubusercontent.com/74038190/214644152-
 <!-- Introduction with League of Legends GIF table style down below -->
 ## [Introduction](#introduction)
 
+<!-- Gif Background Custom for Gabriel Angelo reference, for now it's only League of Legends --> 
+<div style="display: flex; justify-content: space-between;">
+<img width="200" height="200" src="https://media.giphy.com/media/V00dSdmIp5bNl0Vi2j/giphy.gif?cid=790b7611932h8keib4n039i474qxpekp80630gf9f6i2k7m7&ep=v1_stickers_search&rid=giphy.gif&ct=s" style="margin-right: 20px;" />
+<img width="200" height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTMyaDhrZWliNG4wMzlpNDc0cXhwZWtwODA2MzBnZjlmNmkyazdtNyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/l2SpY4SJZy8b3BMHK/giphy.gif" style="margin-right: 20px;" />
+<img width="200" height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTMyaDhrZWliNG4wMzlpNDc0cXhwZWtwODA2MzBnZjlmNmkyazdtNyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/l2SpY4SJZy8b3BMHK/giphy.gif" style="margin-right: 20px;" />
+<img width="200" height="200" src="https://media.giphy.com/media/JCo0BaDc42GgRJkRgr/giphy.gif?cid=790b7611932h8keib4n039i474qxpekp80630gf9f6i2k7m7&ep=v1_stickers_search&rid=giphy.gif&ct=s" style="margin-right: 20px;" />
+
 <!-- Fade-in / Fade-out effect pannel button for Linkedin, Instagram, Facebook and Twitter -->
 <div align="center">
 <h1>Connect with me on     <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/a2605358-6b87-44ab-87fb-20dcdc5f9ef2" width="40">&nbsp;</h1>
@@ -68,6 +82,11 @@ Hi there <img src="https://user-images.githubusercontent.com/74038190/214644152-
 <a href="https://www.instagram.com/yovngbrokegab/" target="_blank"><img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="70"></a>
 <a href="https://www.facebook.com/Bhoya08" target="_blank"><img src="https://user-images.githubusercontent.com/74038190/235294010-ec412ef5-e3da-4efa-b1d4-0ab4d4638755.gif" width="70"></a>
 <a href="https://www.x.com/flexyledger" target="_blank"><img src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" width="70"></a>
+</div>
+
+<!-- League of Legends TFT Birdie -->
+<div align="center">
+<img src="https://media.giphy.com/media/U8VG8SfKICqkPjq4Sl/giphy.gif?cid=790b7611932h8keib4n039i474qxpekp80630gf9f6i2k7m7&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="300">
 </div>
 
 <!-- Language and Tools, feel free to revise.
