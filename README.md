@@ -185,6 +185,9 @@ Visit this Github url for more icon preference: https://github.com/tandpfun/skil
 <!-- For more theme color visit this link https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md -->
 ![IYB-Mata GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=IYB-Mata&langs_count=11&theme=outrun&border=false&include_all_commits=true&count_private=true&layout=compact) 
 
+<!-- GitHub Graph  -->
+<a href="https://github.com/IYB-Mata"><img src="https://github-readme-activity-graph.vercel.app/graph?username=IYB-Mata&bg_color=0C1014&color=4C8ED9&line=4C8ED9&point=FFFFFF&hide_border=true&border=3B495FFF" /></a>
+
 <!-- End point insert background infinite line of sight color blue -->
 
 ## 🏆 GitHub Trophies  
