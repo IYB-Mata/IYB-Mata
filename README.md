@@ -178,6 +178,12 @@ Visit this Github url for more icon preference: https://github.com/tandpfun/skil
 ![type definitions](https://img.shields.io/npm/types/typescript?style=flat-square)
 ![code style](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)
 
+##### My GitHub contributions graph
+
+![snake gif](https://github.com/flexycode/flexycode/blob/output/github-contribution-grid-snake-dark.svg)
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
+
+
 # <h2 align="center">GitHub Stats     <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/2c0eef4b-7b75-42bd-9722-4bea97a2d532" width="40">&nbsp;</h2>
 ![IYB-Mata GitHub stats](https://github-readme-stats.vercel.app/api?username=IYB-Mata&show_icons=true&theme=outrun)<br/>
 
